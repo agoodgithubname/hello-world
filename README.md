@@ -1,7 +1,5 @@
 # hello-world
 first github program
-# none
-some git
 
-# local
-change
+# python spider
+urllib2 test
